@@ -1,0 +1,14 @@
+html {
+    background-color: lavender;
+}
+body {
+    background-color: white;
+    padding-bottom: 10px;
+}
+p {
+    width: 90%
+}
+a {
+    font-weight: bold;
+    color: purple;
+}
